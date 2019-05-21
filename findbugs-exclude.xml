@@ -1,8 +1,0 @@
-<FindBugsFilter>
-    <Match>
-        <Class name="~.*SecurityFilter.*" />
-    </Match>
-    <Match>
-        <Package name="org.pac4j.play.scala" />
-    </Match>
-</FindBugsFilter>
